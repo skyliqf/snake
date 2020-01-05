@@ -1,0 +1,3 @@
+﻿  snake.cpp
+C:\Users\Li.Q.F\source\repos\snake\snake\snake.cpp(34,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  snake.vcxproj -> C:\Users\Li.Q.F\source\repos\snake\Debug\snake.exe
